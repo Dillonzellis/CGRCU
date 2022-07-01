@@ -72,16 +72,16 @@
                     </li>
 
                     
-                    <li data-transition="notransition" data-slotamount="10" data-masterspeed="300" data-thumb="https://www.cgrcu.org/images/slider/home-loan.png">
+<!--                    <li data-transition="notransition" data-slotamount="10" data-masterspeed="300" data-thumb="https://www.cgrcu.org/images/slider/home-loan.png">-->
                         <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-                        <img src="https://www.cgrcu.org/images/slider/memorial-ban.png" data-transition="notransition" alt="Home Equity Line of Credit">
+<!--                        <img src="https://www.cgrcu.org/images/slider/memorial-ban.png" data-transition="notransition" alt="Home Equity Line of Credit">-->
 
                         <!-- THE CAPTIONS IN THIS SLDIE -->
-                        <div class="caption large_text sfb" data-x="300" data-y="140" data-speed="500" data-start="1000" data-easing="easeOutExpo">We will be closed for Memorial Day, Monday May 30th.</div>
+<!--                        <div class="caption large_text sfb" data-x="150" data-y="140" data-speed="500" data-start="1000" data-easing="easeOutExpo">We will be closed for Memorial Day, Monday May 30th.</div>-->
 
 
                         <!-- <div class="caption randomrotate" data-x="300" data-y="250" data-speed="600" data-start="1700" data-easing="easeOutExpo"><a href="https://cu.memberfirst.com/cgrcu/?apply" target="_blank"><img src="https://www.cgrcu.org/images/slider/learn-more.jpg" alt="Learn More Button"></a></div> -->
-                    </li>
+<!--                    </li>-->
 
 
                     <!--<li data-transition="notransition" data-slotamount="10" data-masterspeed="300" data-thumb="https://www.cgrcu.org/images/slider/auto-loan5.jpg">
