@@ -31,20 +31,14 @@
 
 
 
-                    <li data-transition="notransition" data-slotamount="1000" data-masterspeed="300" data-thumb="https://www.cgrcu.org/images/slider/lock-in.jpg">
+                    <li data-transition="notransition" data-slotamount="1000" data-masterspeed="300" data-thumb="../images/slider/Web Banner Gas Cash.png">
                         <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-                        <img src="https://www.cgrcu.org/images/slider/lock-in.jpg" data-transition="notransition" alt="Home Equity Line of Credit">
+                        <img src="../images/slider/Web Banner Gas Cash.png" data-transition="notransition" alt="Home Equity Line of Credit">
 
                         <!-- THE CAPTIONS IN THIS SLDIE -->
                         <div class="caption large_text sfb" data-x="100" data-y="140" data-speed="500" data-start="1000" data-easing="easeOutExpo">Finance your Auto Loan through CGR and get $75 Gas Cash**</div>
 
-                        <div class="caption large_text sfb" data-x="100" data-y="140" data-speed="500" data-start="1000" data-easing="easeOutExpo">In the market for a new or used car or truck? Finance it with us and we’ll fill up your gas tank. Our rates start as low as 1.85% APR*. Fit your payment into your budget with payment options from weekly, bi-weekly, semi-monthly, or monthly payments. We make it easy to finance your new car.</div>
-
-                        <div class="caption large_text sfb" data-x="100" data-y="140" data-speed="500" data-start="1000" data-easing="easeOutExpo">
-                            **A limited time offer and does not apply to existing CGRCU loans. Applicant must qualify under CGR Credit Union’s normal underwriting guidelines. Gas Cash available to members financing over $20,000 on a new or used vehicle. Lowest rate available is 1.85% APR and may vary depending on loan type, term, and applicant credit history. Length of pre-approval may vary depending on applicant credit history. Program rates, terms, and conditions are subject to change without notice.
-                        </div>
-
-                        <div class="caption randomrotate" data-x="100" data-y="200" data-speed="600" data-start="1700" data-easing="easeOutExpo"><a href="https://www.cgrcu.org/promo/lock-in.php"><img src="https://www.cgrcu.org/images/slider/learn-more.jpg" alt="Learn More Button"></a></div>
+                        <div class="caption randomrotate" data-x="100" data-y="200" data-speed="600" data-start="1700" data-easing="easeOutExpo"><a href="https://www.cgrcu.org/promo/finance-auto-loan.php"><img src="https://www.cgrcu.org/images/slider/learn-more.jpg" alt="Learn More Button"></a></div>
                     </li>
 
 
