@@ -159,6 +159,8 @@
     <p> For additional details about identity theft recovery and monitoring services and mobile phone coverage included with Premier Checking, including terms, conditions, and limitations, please visit <a href="#" data-remodal-target="nxg">www.cgrcu.nxgstrategies.com</a>.</p>
 	<p>For more information about the new identity theft recovery benefit included with Preferred and Value Checking, visit <a href="#" data-remodal-target="nxgCares">cgrcucares.nxgstrategies.com</a></p>
 	
+
+    <button class="bold-btn"><a href="https://www.secure-cgrcu.org/Centryx/servlet/com.sos.webteller.onlineforms.AcctPassApp" target="_blank">Open a checking account</a></button>
     
 	<p align="left"><iframe width="560" height="315" src="https://www.youtube.com/embed/wUqzukm0NpI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Remote Access to CGR CU"></iframe></p>
 <div class="clearfix m20-t"></div>
