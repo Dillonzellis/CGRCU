@@ -29,20 +29,96 @@
             <div class="fullwidthbanner">
                 <ul>
 
+                    <!--<li data-transition="notransition" data-slotamount="10" data-masterspeed="300" data-thumb="https://www.cgrcu.org/images/slider/annual-meeting22.jpg">
+										
+										<img src="https://www.cgrcu.org/images/slider/annual-meeting22.jpg" data-transition="notransition" alt="Annual Meeting">
 
+										
+										<div class="caption large_text sfb"
+											 data-x="100"
+											 data-y="140"
+											 data-speed="500"
+											 data-start="1000"
+											 data-easing="easeOutExpo">CGR CU Annual Meeting<br>of the Membership<br>Tuesday, Feb. 22nd at 4:00 p.m.</div>
+                                             
 
-                    <li data-transition="notransition" data-slotamount="1000" data-masterspeed="300" data-thumb="../images/slider/Web Banner Gas Cash.png">
+										<div class="caption randomrotate"
+											 data-x="300"
+											 data-y="275"
+											 data-speed="600"
+											 data-start="1700"
+											 data-easing="easeOutExpo"><a href="https://www.cgrcu.org/meeting/"><img src="https://www.cgrcu.org/images/slider/learn-more.jpg" alt="Learn More Button"></a></div>
+
+							</li>-->
+					
+					<li data-transition="notransition" data-slotamount="10" data-masterspeed="300" data-thumb="../images/slider/auto-banner.png">
                         <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-                        <img src="../images/slider/Web Banner Gas Cash.png" data-transition="notransition" alt="Home Equity Line of Credit">
+                        <img src="../images/slider/auto-banner-7.png" data-transition="notransition" alt="Auto Financing">
+">
 
                         <!-- THE CAPTIONS IN THIS SLDIE -->
-                        <div class="caption large_text sfb" data-x="100" data-y="140" data-speed="500" data-start="1000" data-easing="easeOutExpo">Finance your Auto Loan through CGR and get $75 Gas Cash**</div>
+                        <div class="caption large_text sfb" data-x="100" data-y="120" data-speed="500" data-start="1000" data-easing="easeOutExpo">Finance your Auto Loan through CGR and get $75 Gas Cash**</div>
 
-                        <div class="caption randomrotate" data-x="100" data-y="200" data-speed="600" data-start="1700" data-easing="easeOutExpo"><a href="https://www.cgrcu.org/promo/finance-auto-loan.php"><img src="https://www.cgrcu.org/images/slider/learn-more.jpg" alt="Learn More Button"></a></div>
+                        <div class="caption randomrotate" data-x="100" data-y="180" data-speed="600" data-start="1700" data-easing="easeOutExpo"><a href="https://www.cgrcu.org/promo/finance-auto-loan.php"><img src="https://www.cgrcu.org/images/slider/learn-more.jpg" alt="Learn More Button"></a></div>
+                    </li>
+					
+					
+					<!-- <li data-transition="notransition" data-slotamount="10" data-masterspeed="300" data-thumb="https://www.cgrcu.org/images/slider/lock-in.jpg"> -->
+						<!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
+						<!-- <img src="https://www.cgrcu.org/images/slider/lock-in.jpg" data-transition="notransition" alt="Home Equity Line of Credit"> -->
+
+						<!-- THE CAPTIONS IN THIS SLDIE -->
+						<!-- <div class="caption large_text sfb" data-x="100" data-y="140" data-speed="500" data-start="1000" data-easing="easeOutExpo">Lock In Your Rate While You Wait</div>
+
+						<div class="caption randomrotate" data-x="100" data-y="200" data-speed="600" data-start="1700" data-easing="easeOutExpo"><a href="https://www.cgrcu.org/promo/lock-in.php"><img src="https://www.cgrcu.org/images/slider/learn-more.jpg" alt="Learn More Button"></a></div>
+					</li> -->
+
+                    <li data-transition="notransition" data-slotamount="10" data-masterspeed="300" data-thumb="https://www.cgrcu.org/images/slider/home-loan.png">
+                        <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
+                        <img src="https://www.cgrcu.org/images/slider/home-loan.png" data-transition="notransition" alt="Home Equity Line of Credit">
+
+                        <!-- THE CAPTIONS IN THIS SLDIE -->
+                        <div class="caption large_text sfb" data-x="300" data-y="140" data-speed="500" data-start="1000" data-easing="easeOutExpo" style="font-size: 2rem">Get in the home of your dreams.</div>
+
+
+                        <div class="caption randomrotate" data-x="300" data-y="250" data-speed="600" data-start="1700" data-easing="easeOutExpo"><a href="https://cu.memberfirst.com/cgrcu/?apply" target="_blank"><img src="https://www.cgrcu.org/images/slider/learn-more.jpg" alt="Learn More Button"></a></div>
                     </li>
 
+                    
+<!--                    <li data-transition="notransition" data-slotamount="10" data-masterspeed="300" data-thumb="https://www.cgrcu.org/images/slider/home-loan.png">-->
+                        <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
+<!--                        <img src="https://www.cgrcu.org/images/slider/memorial-ban.png" data-transition="notransition" alt="Home Equity Line of Credit">-->
+
+                        <!-- THE CAPTIONS IN THIS SLDIE -->
+<!--                        <div class="caption large_text sfb" data-x="150" data-y="140" data-speed="500" data-start="1000" data-easing="easeOutExpo">We will be closed for Memorial Day, Monday May 30th.</div>-->
 
 
+                        <!-- <div class="caption randomrotate" data-x="300" data-y="250" data-speed="600" data-start="1700" data-easing="easeOutExpo"><a href="https://cu.memberfirst.com/cgrcu/?apply" target="_blank"><img src="https://www.cgrcu.org/images/slider/learn-more.jpg" alt="Learn More Button"></a></div> -->
+<!--                    </li>-->
+
+
+                    <!--<li data-transition="notransition" data-slotamount="10" data-masterspeed="300" data-thumb="https://www.cgrcu.org/images/slider/auto-loan5.jpg">
+										<!-- THE MAIN IMAGE IN THE FIRST SLIDE 
+										<img src="https://www.cgrcu.org/images/slider/auto-loan5.jpg" data-transition="notransition" alt="Auto Loans">
+
+										<!-- THE CAPTIONS IN THIS SLDIE 
+										<div class="caption large_text sfb"
+											 data-x="300"
+											 data-y="140"
+											 data-speed="500"
+											 data-start="1000"
+											 data-easing="easeOutExpo">Is it time for a new car?<br>No payments for up to 90 Days<br>
+Rates as low as 1.74% APR</div>
+                                             
+
+										<div class="caption randomrotate"
+											 data-x="300"
+											 data-y="250"
+											 data-speed="600"
+											 data-start="1700"
+											 data-easing="easeOutExpo"><a href="promo/new-car.php"><img src="https://www.cgrcu.org/images/slider/learn-more.jpg" alt="Learn More Button"></a></div>
+
+							</li>-->
                 </ul>
             </div>
 
