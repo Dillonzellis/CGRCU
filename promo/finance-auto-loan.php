@@ -28,10 +28,9 @@
 
                 <p>In the market for a new or used car or truck? Finance it with us and we’ll fill up your gas tank. Our rates start as low as 2.40% APR*. Fit your payment into your budget with payment options from weekly, bi-weekly, semi-monthly, or monthly payments. We make it easy to finance your new car.</p>
 
-                <button><a href="https://www.secure-cgrcu.org/Centryx/servlet/com.sos.webteller.onlineforms.AcctPassApp?SOSSessionID=!_v2ewd6i84EA4DZbtJw6nRyVMx6CspLeHanaZZ/JKWEYjGfDodwshLmd2YPI2UhzR1OfriTXu1v4yhm5fsl/jdgoz0zpf5JteXg2bKHRb+9UDWEgVSn30pjCe2v_!&Type=!_v2eHw56oYY+GPl/dtu9xvuftJ4kNWV2CufaNa2PxfDT2gO0sOu/UEQ2a6GA0C9Fmp4oCd02nLy0e2v_!" target="_blank">Apply Now</a></button>
+                <a class="bold-btn" href="https://www.secure-cgrcu.org/Centryx/servlet/com.sos.webteller.onlineforms.AcctPassApp?SOSSessionID=!_v2ewd6i84EA4DZbtJw6nRyVMx6CspLeHanaZZ/JKWEYjGfDodwshLmd2YPI2UhzR1OfriTXu1v4yhm5fsl/jdgoz0zpf5JteXg2bKHRb+9UDWEgVSn30pjCe2v_!&Type=!_v2eHw56oYY+GPl/dtu9xvuftJ4kNWV2CufaNa2PxfDT2gO0sOu/UEQ2a6GA0C9Fmp4oCd02nLy0e2v_!" target="_blank">Apply Now</a>
 
-
-                <p style="font-size: 12px;">Disclaimer:
+                <p style="font-size: 12px; margin-top: 12px">Disclaimer:
                     <br>
                     *Annual Percentage Rate
                     <br>
