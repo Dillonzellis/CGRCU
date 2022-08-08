@@ -1,11 +1,9 @@
 /* Buttons */
 
-button {
-    font-size: 1rem;
-}
-
 .bold-btn{
-    font-size: 1.5rem;
+    font-size: 18px;
     padding: 0.5em 1em;
     height: unset;
+    text-decoration: none;
+    border: 1px solid #b21f17;
 }
