@@ -125,7 +125,6 @@
                                     <li><a href="https://www.cgrcu.org/pages/debit-check.php">Debit/Check Card Services</a></li>
                                     <li><a href="https://www.cgrcu.org/pages/assistance-visa-credit.php">Debit/Check Card Assistance</a></li>
                                     <li><a href="https://www.cgrcu.org/pages/timely-teller.php">Timely Teller/24 Hour Audio Response</a></li>
-                                    <li><a href="https://www.cgrcu.org/pages/identity-theft.php">Identity Theft Information</a></li>
                                 </ul>
                             </li>
 
