@@ -352,30 +352,27 @@
 
                     <tr>
                         <td>80% or Less of Appraised Value</td>
-                        <td>As low as 4.75%**</td>
+                        <td>As low as 4.75%***</td>
                     </tr>
 
                     <tr>
                         <td>More than 80% of Appraised Value</td>
-                        <td>As low as 4.75%**</td>
+                        <td>As low as 4.75%***</td>
                     </tr>
 
                 </table>
-
-                <p class="fw700 aligncenter">Floor Rate of 4.00%****</p>
 
                 <div class="clearfix m30-t"></div>
 
                 <p><a href="https://www.cgrcu.org/calculators/APR/aprc.htm" target="_blank">Click here for the APR calculator</a>.</p>
 
-                <p>* All loans subject to credit approval. Some restrictions may apply. Your APR may vary depending on your creditworthiness. Please ask a loan officer for details. Any increase in the APR will result in more payments of the same amount. Rates and terms subject to change without notice.</p>
+                <p>*All loans subject to credit approval. Some restrictions may apply. Your APR may vary depending on your creditworthiness. Please ask a loan officer for details. Rates and terms subject to change without notice</p>
 
-                <p>**Maximum amount financed is 95% of appraised value. All loans subject to credit approval. Some restrictions may apply. Your APR may vary depending on your creditworthiness. Please ask a loan officer for details. Rates and terms subject to change without notice.</p>
-
-                <p>*** As low as rate is for 60 month term. Creditworthiness and length of time financed (term) determines APR. Terms up to 180 months are available.</p>
-
-                <p>****Prime Rate is a variable rate; as it changes, the APR on your account will also change.</p>
+                <p>**Your APR may vary based on your creditworthiness and length of time financed (term). Terms from 60 to 180 months are available. Rates and terms subject to change without notice. Please ask a loan officer for details</p>
                 </p>
+
+                <p>*** The APR is variable and is based upon an index and a margin. Maximum APR is 18.0%; minimum APR is 4.0%. Margin, rate, and payment amount may vary based on property value, loan amount, creditworthiness, and other factors. Property insurance is required; flood insurance may be required depending on the location of the collateral. Maximum amount financed is 95% of appraised value. Some restrictions may apply. Rates and terms subject to change without notice. Please ask a loan officer for details.</p>
+
 
             </div>
             <!--end eight columns-->
