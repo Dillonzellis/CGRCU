@@ -53,14 +53,15 @@
 
                     <li data-transition="notransition" data-slotamount="10" data-masterspeed="300" data-thumb="https://www.cgrcu.org/images/slider/Gas-Cash-72822.png">
                         <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-                        <img src="https://www.cgrcu.org/images/slider/Gas-Cash-72822.png" data-transition="notransition" alt="Person pumping gas into car">
+                        <img src="https://www.cgrcu.org/images/slider/8.12. Gas banner.png" data-transition="notransition" alt="Person pumping gas into car">
                         ">
 
                         <!-- THE CAPTIONS IN THIS SLDIE -->
                         <div class="caption large_text sfb" data-x="100" data-y="120" data-speed="500" data-start="1000" data-easing="easeOutExpo">Finance your Auto Loan through CGR and get $75 Gas Cash**</div>
 
-                        <div class="caption randomrotate" data-x="100" data-y="180" data-speed="600" data-start="1700" data-easing="easeOutExpo"> 
-                        <a href="https://www.cgrcu.org/promo/finance-auto-loan.php"><img src="https://www.cgrcu.org/images/slider/learn-more.jpg" alt="Learn More Button"></a></div>
+                        <div class="caption randomrotate" data-x="100" data-y="180" data-speed="600" data-start="1700" data-easing="easeOutExpo">
+                            <a href="https://www.cgrcu.org/promo/finance-auto-loan.php"><img src="https://www.cgrcu.org/images/slider/learn-more.jpg" alt="Learn More Button"></a>
+                        </div>
                     </li>
 
 
