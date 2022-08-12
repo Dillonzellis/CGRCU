@@ -92,7 +92,7 @@
                         <td>Recurring Debit Card Payments</td>
                         <td>X</td>
                         <td>X</td>
-                        <td class="no-border"><a href="https://www.cgrcu.org/pages/locations.php">ATM Locations</a></td>
+                        <td class="no-border"><a href="https://www.cgrcu.org/pages/contact-us.php">Visit any branch</a></td>
                     </tr>
 
                     <tr>
@@ -142,16 +142,9 @@
         </div>
     </main>
 
-
-
-
-
-
     <?php include('../includes/footer.php'); ?>
 
     <!--JAVASCRIPT INCLUDES-->
-
-
 </body>
 
 </html>
