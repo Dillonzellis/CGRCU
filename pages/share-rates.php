@@ -25,7 +25,7 @@
             <div class="nine columns">
                 <h1 class="page-title">Share Rates</h1>
 
-                <p>Annual Percentage Yield is accurate as of April 1, 2020. Rates and other terms may change at any time without prior notice. A penalty is imposed for early withdrawal. Fees could reduce earnings on the account.</p>
+                <p>Annual Percentage Yield is accurate as of December 1, 2022. Rates and other terms may change at any time without prior notice. A penalty is imposed for early withdrawal. Fees could reduce earnings on the account.</p>
 
                 <table class="rates-table">
 
@@ -41,20 +41,17 @@
                         <tr>
                             <td>
                                 <strong>Capital Share (Money Market)</strong><br />
-                                $500 - $2,499<br />
-                                $2,500 and up
+                                $500 - Up</td>
+                            <td>
+                      
+                                0.35%
                             </td>
                             <td>
-                                0.15%<br />
-                                0.15%
+                       
+                                0.35%
                             </td>
                             <td>
-                                0.15%<br />
-                                0.15%
-                            </td>
-                            <td>
-                                $500/$2,500<br />
-                                Tiered Pricing
+                                $500
                             </td>
                         </tr>
 
@@ -88,12 +85,15 @@
                             <td><strong>Preferred Checking</strong><br />$5,000 - 9,999.99<br>
                                 $10,000 & Greater</td>
                             <td><br>
-                                0.05%<br>
-                                0.10%</td>
+                                0.15%<br>
+                                0.25%</td>
                             <td><br>
-                                0.05%<br>
-                                0.10%</td>
-                            <td>$5,000</td>
+                                0.15%<br>
+                                0.25%</td>
+                            <td>$5,000
+							<br>
+								$10,000
+							</td>
                         </tr>
 
                         <tr>
@@ -111,12 +111,12 @@
                                 $250 - 12 Month CD
                             </td>
                             <td>
-                                0.15%<br />
-                                0.25%
+                                0.35%<br />
+                                2.20%
                             </td>
                             <td>
-                                0.15%<br />
-                                0.25%
+                                0.35%<br />
+                                2.50%
                             </td>
                             <td>
                                 $5<br />
@@ -126,15 +126,15 @@
 
                         <tr>
                             <td>Christmas Club</td>
-                            <td>0.15%</td>
-                            <td>0.15%</td>
+                            <td>0.35%</td>
+                            <td>0.35%</td>
                             <td>$100</td>
                         </tr>
 
                         <tr>
                             <td>Vacation Club</td>
-                            <td>0.15%</td>
-                            <td>0.15%</td>
+                            <td>0.35%</td>
+                            <td>0.35%</td>
                             <td>$100</td>
                         </tr>
 
@@ -164,51 +164,51 @@
 
                         <tr>
                             <td><strong>6 Month</strong></td>
-                            <td>0.50%</td>
-                            <td>0.50%</td>
+                            <td>0.75%</td>
+                            <td>0.75%</td>
                             <td>$2,500</td>
                         </tr>
 
                         <tr>
                             <td><strong>12 Month</strong></td>
-                            <td>.60%</td>
-                            <td>.60%</td>
+                            <td>1.00%</td>
+                            <td>1.00%</td>
                             <td>$2,500</td>
                         </tr>
 
                         <tr>
                             <td><strong>NEW 18 Month</strong></td>
-                            <td>.60%</td>
-                            <td>.60%</td>
+                            <td>2.00%</td>
+                            <td>2.00%</td>
                             <td>$2,500</td>
                         </tr>
 
                         <tr>
                             <td><strong>24 Month</strong></td>
                             <td>.70%</td>
-                            <td>.70%</td>
+                            <td>0.70%</td>
                             <td>$2,500</td>
                         </tr>
 
                         <tr>
                             <td><strong>36 Month</strong></td>
-                            <td>.80%</td>
-                            <td>.80%</td>
+                            <td>2.10%</td>
+                            <td>2.10%</td>
                             <td>$2,500</td>
                         </tr>
 
                         <tr>
                             <td><strong>48 Month</strong></td>
-                            <td>0.80%</td>
-                            <td>0.80%</td>
+                            <td>2.20%</td>
+                            <td>2.20%</td>
                             <td>$2,500</td>
                         </tr>
 
 
                         <tr>
                             <td><strong>60 Month</strong></td>
-                            <td>0.90%</td>
-                            <td>0.90%</td>
+                            <td>2.20%</td>
+                            <td>2.20%</td>
                             <td>$2,500</td>
                         </tr>
 
